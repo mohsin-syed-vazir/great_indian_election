@@ -1,1 +1,2 @@
-# great_indian_election
+# Mini project
+The data set for this project i have choosen is on indian elections. 
